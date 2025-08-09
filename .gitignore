@@ -40,10 +40,7 @@ venv.bak/
 Thumbs.db
 
 # Data files
-data/documents/*.pdf
-data/documents/*.docx
-data/processed/*
-data/embeddings/*
+data/*
 
 # Logs
 *.log
